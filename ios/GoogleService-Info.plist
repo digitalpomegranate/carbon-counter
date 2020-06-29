@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>122404816044-m0ve46v9uumod0hb1amoq3pc9i76ofi1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.122404816044-m0ve46v9uumod0hb1amoq3pc9i76ofi1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqFLPTVrah8_XziZINrXCYwn4z-zdypnI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>122404816044</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.digitalPomegranate.carbonCounter</string>
+	<key>PROJECT_ID</key>
+	<string>carbon-counter-1a8c1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carbon-counter-1a8c1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:122404816044:ios:3303f3bd5d21b731edcb09</string>
+	<key>DATABASE_URL</key>
+	<string>https://carbon-counter-1a8c1.firebaseio.com</string>
+</dict>
+</plist>

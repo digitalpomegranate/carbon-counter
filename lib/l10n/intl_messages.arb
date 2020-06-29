@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2019-10-01T14:24:55.292622",
+  "displayYourMessageBroadly": "DisPLAY your message BROADLY",
+  "@displayYourMessageBroadly": {
+    "description": "displayYourMessageBroadly",
+    "type": "text",
+    "placeholders": {}
+  }
+}

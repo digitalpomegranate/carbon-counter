@@ -1,0 +1,9 @@
+const double tileHight = 200.0;
+const double tileMarginVertical = 5.0;
+const double tileMarginHorizontal = 10.0;
+const double tileTitleHeight = 100.0;
+const double alertDialogPadding = 10.0;
+const double alertDialogRadius = 25.0;
+const double titleWidth = 120.0;
+const double titleRadius = 20.0;
+const double contentPadding = 5.0;
