@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "122404816044",
+    "firebase_url": "https://carbon-counter-1a8c1.firebaseio.com",
+    "project_id": "carbon-counter-1a8c1",
+    "storage_bucket": "carbon-counter-1a8c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122404816044:android:cd6e6e75b4c1cd5dedcb09",
+        "android_client_info": {
+          "package_name": "com.digitalPomegranate.carbonCounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122404816044-nhnhukpt7q30jklj9l8o0iuuh19p4g24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqlCpyPA7KSmU-Sxo4Y_7bLJlZtgdX6N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122404816044-nhnhukpt7q30jklj9l8o0iuuh19p4g24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122404816044-m0ve46v9uumod0hb1amoq3pc9i76ofi1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitalPomegranate.carbonCounter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+const double challengeWidth = 366.0;
+const double challengeHeight = 200.0;
+const double joinButtonHeight = 40.0;
+const double joinButonWidth = 118.0;
+const double tileMarginVertical = 5.0;
+const double tileMarginHorizontal = 10.0;
+const double tileBorderradius = 10.0;
+const double buttonBorderRadius = 30.0;
+const double buttonMarginBottom = 15.0;
+const double buttonMarginRight = 20.0;
+const double iconHeight = 75.0;
+const double iconMargin = 15.0;
+const double titleMarginTop = 30.0;
+const double textMarginLeft = 100.0;
+const double textMarginRight = 10.0;
+const double benefitMargin = 10.0;
