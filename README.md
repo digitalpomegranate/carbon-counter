@@ -1,16 +1,6 @@
-# carbon_counter
+# Carbon Counter
 
-A new Flutter project.
+Carbon Counter is a carbon footprint tracker app. 
 
-## Getting Started
+“Going green” must go further than just recycling. We have created a solution for both the environmentalists and for those who just woke up to save the planet! Carbon Counter offers a mindful way to educate people on their carbon footprint and show how their actions contribute to their carbon emissions. The app MEASUREs and PLANS for REDUCING carbon emissions. PLAYING the carbon offset competition is an extra challenge for the app users to go fully green.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
