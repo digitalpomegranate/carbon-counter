@@ -107,4 +107,11 @@ class _HomePageState extends State<HomePage> {
       ),
     );
   }
+
+  @override
+  void initState() {
+    Future.delayed(Duration(seconds: 1))
+        .then((value) => Dialogs.challangeDialog());
+    super.initState();
+  }
 }

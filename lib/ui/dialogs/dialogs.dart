@@ -166,7 +166,7 @@ class Dialogs {
       context: GlobalContext.context,
       barrierColor:
           Theme.of(GlobalContext.context).accentColor.withOpacity(0.1),
-      transitionDuration: Duration(milliseconds: 100),
+      transitionDuration: Duration(milliseconds: 300),
       barrierDismissible: false,
       pageBuilder: (BuildContext context, animation, secondartAnimation) {
         AppLocalizations locals = AppLocalizations.of(context);
